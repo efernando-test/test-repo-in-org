@@ -11,3 +11,6 @@ def execute_command(command_input):
 if __name__ == "__main__":
     user_input = input("Enter a command to execute: ")
     execute_command(user_input)
+
+
+print(f"[INFO] Environment: {os.environ}")
