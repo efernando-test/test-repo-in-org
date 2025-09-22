@@ -9,5 +9,5 @@ app.get("/", async (req, res) => {
 });
 
 app.listen(8080, () => {
-  console.log("YAY The webpage is live on http://localhost:8080 :)");
+  console.log("YAYY The webpage is live on http://localhost:8080 :)");
 })
